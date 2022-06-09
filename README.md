@@ -1,2 +1,2 @@
-# Optimisez-la-gestion-des-donn-es-d-une-boutique-avec-Python
+# Optimisez-la-gestion-des-donnees-d-une-boutique-avec-Python
 Ce projet réalisé dans le cadre de la formation en data analyst réalisée par OpenClassrooms en partenariat avec l'ENSAE. Compétences évaluées: Jointures entre les dataframes; Traitement des doublons et valeurs manquantes;  Analyse univariée; Classification des différents types de données; Gestion des erreurs et incohérences présentes sur des données stockées
